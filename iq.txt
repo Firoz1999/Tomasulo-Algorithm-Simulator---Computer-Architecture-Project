@@ -1,0 +1,24 @@
+LDR r0 0
+LDR r1 1
+LDR r2 2
+LDR r3 3
+LDR r4 4
+LDR r5 5
+LDR r6 6
+LDR r7 7
+MUL r8 r0 r4
+MUL r9 r1 r6
+ADD r8 r8 r9
+MUL r10 r0 r5
+MUL r11 r1 r7
+ADD r10 r10 r11
+MUL r12 r2 r4
+MUL r13 r3 r6
+ADD r12 r12 r13
+MUL r14 r2 r5
+MUL r15 r3 r7
+ADD r14 r14 r15
+STR r8 8
+STR r10 9
+STR r12 10
+STR r14 11
