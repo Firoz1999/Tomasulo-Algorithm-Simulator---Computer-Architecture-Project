@@ -1,0 +1,4 @@
+22 0 XXX -1 -1 inf 0
+23 0 XXX -1 -1 inf 0
+24 0 XXX -1 -1 inf 0
+25 1 LDR 7 -1 inf 1
