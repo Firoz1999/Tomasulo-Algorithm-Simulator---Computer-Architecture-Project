@@ -1,0 +1,3 @@
+13 0 XXX -1 inf -1 inf 0
+14 0 XXX -1 inf -1 inf 0
+15 0 XXX -1 inf -1 inf 0
